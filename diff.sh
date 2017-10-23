@@ -1,4 +1,10 @@
 
+# This script written C0deDaedalus on 22 OCT 2017
+# This script mimics the functionality of diff command in Linux
+# It just Compares two files and echoes out "Files are same" If so.
+# It does not tells the exact line & bytes where the two files differlike diff command does.
+# Will be implementing in future
+
 #!/bin/bash
 
 ARGUMENTS=2             # No. of arguments to be passed to script
