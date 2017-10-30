@@ -18,7 +18,7 @@ Go from beginner to advanced with the Linux command line in this BASH programmin
                                             
 `Amazing! For the person that has no experience in scripting and programming, this course will give you the foundation
  needed to learn linux bash. Best course I have taken on Udemy! p.s. I never write reviews but this course was too good
- to not post.`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Aretha Vees, 6 months ago *
+ to not post.`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Aretha Vees, 6 months ago (x)
      
      
 (x) - To be counted as on date before, Tuesday 31 October 2017
